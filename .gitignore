@@ -1,0 +1,8 @@
+# video files #
+*.mp4
+*.osp
+*.mkv
+
+
+# zipped folders *
+*.7z
